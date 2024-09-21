@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mahyongways.github.io/pgsoft/sitemap.xml
